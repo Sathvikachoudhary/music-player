@@ -15,6 +15,6 @@
 <h3>Run <code>python main.py</code></h3>
 
 <h3>ui</h3>
-<img src=images/2.png>
+<img src=2.png>
 
 <h1>happy coding..!</h1
